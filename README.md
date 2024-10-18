@@ -6,6 +6,6 @@ set env variables to use
 POSTGRES_PASSWORD cannot be blank
 
 ## web.env
-VIRTUAL_HOST=<your-domain-here>
-LETSENCRYPT_HOST=<your-domain-here>
-LETSENCRYPT_EMAIL=<some-valid-email-address>
+VIRTUAL_HOST=your-domain-here
+LETSENCRYPT_HOST=your-domain-here
+LETSENCRYPT_EMAIL=some-valid-email-address
